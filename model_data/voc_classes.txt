@@ -1,0 +1,10 @@
+plane
+car
+camping_car
+pick_up
+truck
+boat
+van
+tractor
+vehicle
+others
